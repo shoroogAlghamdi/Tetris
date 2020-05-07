@@ -3,6 +3,7 @@
 This project simulates the famous game, namely; Titres. The actual code of the game is NOT written by me, i got it from GitHub two years ago, and unfortunately I dont remember the user to mention him.
 In this project, the main goal was to apply design patterns, which are  general repeatable solutions to commonly occurring problems in software design, [See more](https://sourcemaking.com/design_patterns). These design patterns are applied  using Java programming language.
 <br>
+<br>
 Five design patterns have been applied depending on the requirements of the project and the applications of each pattern:
 
 - Facade
