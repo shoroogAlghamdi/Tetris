@@ -7,7 +7,7 @@ In this project, the main goal was to apply design patterns, which are  general 
 Five design patterns have been applied depending on the requirements of the project and the applications of each pattern:
 
 - Facade
-  - Façade pattern offers a way of communication between clients and subsystems.
+  - Facade pattern offers a way of communication between clients and subsystems.
   - Provides a unified interface to a set of interfaces in a subsystem. So, instead of instantiating all classes in the main, you can instaniate only the Facade class.
 
 - Singleton
